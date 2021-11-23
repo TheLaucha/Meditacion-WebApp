@@ -20,7 +20,7 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://thelaucha.github.io/Meditacion-WebApp/)
+- Live Site URL: [Link](https://thelaucha.github.io/Meditacion-WebApp/)
 
 ## Mi proceso
 
